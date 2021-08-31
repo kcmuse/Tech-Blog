@@ -5,12 +5,7 @@ nav {
     background-color: #ffffff;
     color: #4b484d;
 }
-.nav-link {
-    color: #4b484d;
-}
-.nav-link :hover {
-    color: #ffffff;
-}
+
 h6 {
     text-align: right;
 }
